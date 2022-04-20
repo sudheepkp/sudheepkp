@@ -1,0 +1,22 @@
+
+.container
+{
+    margin: 0 auto;
+}
+header{
+    border: 1px solid blue;
+}
+.nav-ul
+{
+    border: 1px solid rgb(54, 201, 110);
+    list-style: none;
+
+}
+.nav-ul-links
+{
+    border: 1px solid red;
+}
+.nav-ul-links-a
+{
+    border: 1px solid rgb(10, 9, 9);
+}
